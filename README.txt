@@ -10,4 +10,6 @@ if the game is over. Classes were preferable to using functions due to the overa
 use classes to represent potential real life objects.
 
 To run:
-All you have to do to run the game is make sure all files are in the same directory and run the "icebreaker_CJ.py" file.
+1) Make sure python 3 or greater is installed on your computer
+2) Make sure all files are in the same directory
+3) Run the "icebreaker_CJ.py" file in any Python IDE
