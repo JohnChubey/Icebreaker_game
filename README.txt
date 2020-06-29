@@ -10,6 +10,6 @@ if the game is over. Classes were preferable to using functions due to the overa
 use classes to represent potential real life objects.
 
 To run:
-1) Make sure Python 3 or greater is installed on your computer
+1) Make sure Python 3 or greater is installed on your computer (you may also have to download TKinter)
 2) Make sure all files are in the same directory
-3) Run the "icebreaker_CJ.py" file in any Python IDE
+3) Run the "icebreaker_CJ.py"
